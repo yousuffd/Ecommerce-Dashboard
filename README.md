@@ -2,7 +2,7 @@
 
 A **Streamlit-based executive analytics dashboard** for e-commerce operations, designed to give C-suite leaders a real-time, single-pane-of-glass view of revenue, operations, profitability, and customer health — powered by AI-generated insights via Claude (Anthropic) or ChatGPT (OpenAI).
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-name.streamlit.app)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)]([ecom-intelligence](https://ecom-intelligence.streamlit.app/))
 
 ---
 
